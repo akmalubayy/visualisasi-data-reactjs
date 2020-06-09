@@ -1,0 +1,6 @@
+Quick start
+npm i argon-dashboard-react
+Download from Github.
+Download from Creative Tim.
+Install with Bower: bower install argon-dashboard-react.
+Clone the repo: git clone https://github.com/creativetimofficial/argon-dashboard-react.git.
